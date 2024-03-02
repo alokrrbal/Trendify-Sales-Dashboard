@@ -1,7 +1,6 @@
 # Trendify-Sales-Dashboard
 
-<!-- ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection -->
-
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection ](https://app.powerbi.com/view?r=eyJrIjoiMmZjNDNlYmUtNTFmNC00NTU4LWIzYTItNjE2MTU2MmVlZGUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ## Problem Statement
 
 The challenge at hand is to use advanced data analysis techniques, particularly time series analysis, to create an impactful sales analysis and forecasting solution. This involves developing an intuitive dashboard with key performance indicators, conducting insightful data analysis to assess current sales strategies, and implementing time series analysis for accurate sales forecasting over the next 15 days. The ultimate goal is to distill these findings into actionable insights and recommendations, facilitating informed and strategic decision-making for the supermarket's growth and enhanced operational efficiency.
